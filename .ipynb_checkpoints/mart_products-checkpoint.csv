@@ -1,0 +1,14 @@
+product_id,product_name,category,std_price,cost_price
+BEV001,Coca Cola 1.5L,Beverage,4.5,3.8
+BEV002,Mineral Water 500ml,Beverage,1.8,0.6
+BEV003,Orange Juice 1L,Beverage,7.9,5.9
+SNK001,Potato Chips BBQ,Snack,6.9,3.0
+SNK002,Chocolate Cookies 200g,Snack,8.2,4.6
+HOM001,Detergent 2kg,Home,18.9,15.2
+HOM002,Dishwashing Liquid 900ml,Home,9.5,6.1
+FRS001,Apple Fuji 1kg,Fresh,8.5,7.0
+FRS002,Banana 1kg,Fresh,5.5,4.8
+PER001,Shampoo 650ml,Personal,15.9,10.4
+PER002,Body Wash 1L,Personal,14.2,9.7
+FRZ001,Chicken Nugget 1kg,Frozen,14.9,11.8
+SNK001,Potato Chips Barbeque,Snack,6.9,3.0

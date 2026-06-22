@@ -1,3 +1,3 @@
-To Do:
+Where we are now :
 
-Start Cleaning the Datasets
+Making models for step 6 
